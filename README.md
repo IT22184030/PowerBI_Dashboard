@@ -9,6 +9,6 @@ This project includes a Power BI dashboard that provides comprehensive insights 
 - **Market Share of EV Manufacturers**: Shows the market share of various EV manufacturers.
 - **Charging Infrastructure Analysis**: Analyzes the distribution of charging stations and their impact on EV adoption.
 
-(https://github.com/IT22184030/PowerBI_Dashboard/raw/main/C:\Users\Savindi Nawodya\Pictures\Screenshots\Screenshot(112.png)
+https://github.com/IT22184030/PowerBI_Dashboard/blob/main/Screenshot%20(112).png
 
 Feel free to explore the visualizations and interact with the data to gain insights into the electric vehicle population.
